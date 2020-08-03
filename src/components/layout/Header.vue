@@ -18,6 +18,7 @@ export default {
       left:0;
       width:100%;
       margin-bottom:350px;
+      font-family:'montserrat';
   }
   .image{
    height:500px;

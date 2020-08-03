@@ -21,28 +21,28 @@ export default {
       products:[
         {
           id:1,
-          item:"Harry Potter and The Sorceror's Stone",
-          rate:"300/-",
+          item:"T-Shirt1",
+          rate:"$5",
           img:"../assets/ecom.jpg"
         },
         {
           id:2,
-          item:"Harry Potter and The Chamber Of Secrets",
-          rate:"300/-",
+          item:"T-Shirt2",
+          rate:"$10",
            img:"../assets/ecom.jpg"
 
         },
         {
           id:3,
-          item:"Harry Potter and The Prisoner of Azkaban",
-          rate:"250/-",
+          item:"T-Shirt3",
+          rate:"$10",
           img:"../assets/ecom.jpg"
 
         },
         {
           id:4,
-          item:"Harry Potter and The Goblet Of Fire",
-          rate:"200/-",
+          item:"T-Shirt4",
+          rate:"$10",
           img:"../assets/ecom.jpg"
 
         }
@@ -51,23 +51,23 @@ export default {
       stationaries:[
         {
           id:1,
-          item:"Pens",
-          rate:"10/-"
+          item:"Acc1",
+          rate:"$5"
         },
         {
           id:2,
-          item:"Notebook",
-          rate:"45/-"
+          item:"Acc2",
+          rate:"$3"
         },
         {
           id:3,
-          item:"Brushpens",
-          rate:"800/-"
+          item:"Acc3",
+          rate:"$5"
         },
         {
           id:4,
-          item:"Origami Paper",
-          rate:"100/-"
+          item:"Acc4",
+          rate:"$5"
         }
       ]
     }

@@ -18,5 +18,6 @@ export default {
     width:100%;
     margin-top:500px;
     padding-top: 50px;
+    text-align: center;
 }
 </style>
